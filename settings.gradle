@@ -1,0 +1,3 @@
+rootProject.name = "KoinMvvmTestApp"
+include ':app'
+include ':feature'
